@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #e3dfe6;
+    text-align: center;
+}
+
+header {
+    background: #45ad8a;
+    color: rgb(74, 47, 192);
+    padding: 40px;
+}
+
+section {
+    padding: 30px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #3498db;
+    color: rgb(136, 19, 19);
+    margin: 10px auto;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card {
+    background: rgb(133, 4, 4);
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(146, 9, 9);
+    border-radius: 8px;
+}
+
+footer {
+    background: #9ebe27;
+    color: red;
+    padding: 15px;
+}
